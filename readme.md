@@ -13,7 +13,6 @@ Image Enhancement: Utilizes Non-Local Means (NLM), Contrast Limited Adaptive His
 
 
 Technology Stack
-![Getting Started]("C:\Users\rs276\OneDrive\Pictures\Screenshots\Screenshot 2025-01-30 145423.png")
 
 •	Frontend: HTML, CSS, JavaScript, React.js
 •	Backend: Flask (Python)
@@ -22,7 +21,6 @@ Technology Stack
 •	Libraries: OpenCV, NumPy, Pandas
 
 How It Works:
-![Getting Started]("C:\Users\rs276\OneDrive\Pictures\Screenshots\Screenshot 2024-12-20 174657.png")
  
 •	Image Acquisition: Collects raw low-light images from lunar datasets.
 •	Preprocessing: Applies denoising techniques and enhances contrast.
