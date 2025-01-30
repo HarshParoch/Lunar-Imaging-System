@@ -14,6 +14,8 @@ Image Enhancement: Utilizes Non-Local Means (NLM), Contrast Limited Adaptive His
 
 Technology Stack
 
+![Screenshot 2025-01-30 145423](https://github.com/user-attachments/assets/42e18c89-2c78-43ff-be94-9af37aa97ac7)
+
 •	Frontend: HTML, CSS, JavaScript, React.js
 •	Backend: Flask (Python)
 •	Database: PostgreSQL
