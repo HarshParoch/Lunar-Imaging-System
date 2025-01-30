@@ -23,7 +23,8 @@ Technology Stack
 •	Libraries: OpenCV, NumPy, Pandas
 
 How It Works:
- 
+ ![Screenshot 2024-12-20 174657](https://github.com/user-attachments/assets/fdfcab4d-7bf9-4a8b-b8f2-26a501b13af5)
+
 •	Image Acquisition: Collects raw low-light images from lunar datasets.
 •	Preprocessing: Applies denoising techniques and enhances contrast.
 •	Processing & Enhancement: Implements NLM, CLAHE, and OHRC to improve image quality.
@@ -35,6 +36,10 @@ Use Cases
 •	Scientific Research: Assists in studying lunar surface morphology and geological formations.
 •	Space Exploration: Supports better visualization for rover navigation and exploration planning.
 
+Results
+Improved image quality by 20.05% by implementing advanced image processing algorithms, including Non-Local Means (NLM) denoising to reduce noise and CLAHE to enhance contrast, making lunar features more visible.
+
+![Screenshot 2025-01-30 145122](https://github.com/user-attachments/assets/f6049051-9582-467f-9d83-9a08aeaab06f)
 
 Future Enhancements
 •	Implement AI-based Image Classification for automatic crater and terrain detection.
