@@ -23,6 +23,7 @@ Technology Stack
 •	Libraries: OpenCV, NumPy, Pandas
 
 How It Works:
+
  ![Screenshot 2024-12-20 174657](https://github.com/user-attachments/assets/fdfcab4d-7bf9-4a8b-b8f2-26a501b13af5)
 
 •	Image Acquisition: Collects raw low-light images from lunar datasets.
