@@ -37,7 +37,7 @@ Use Cases
 •	Scientific Research: Assists in studying lunar surface morphology and geological formations.
 •	Space Exploration: Supports better visualization for rover navigation and exploration planning.
 
-Results
+
 Improved image quality by 20.05% by implementing advanced image processing algorithms, including Non-Local Means (NLM) denoising to reduce noise and CLAHE to enhance contrast, making lunar features more visible.
 
 ![Screenshot 2025-01-30 145122](https://github.com/user-attachments/assets/f6049051-9582-467f-9d83-9a08aeaab06f)
