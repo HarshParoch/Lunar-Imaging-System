@@ -18,7 +18,7 @@ Technology Stack
 
 •	Frontend: HTML, CSS, JavaScript, React.js
 •	Backend: Flask (Python)
-•	Database: PostgreSQL
+•	Database: SQL
 •	Algorithms: NLM, CLAHE, OHRC, Image Stacking
 •	Libraries: OpenCV, NumPy, Pandas
 
